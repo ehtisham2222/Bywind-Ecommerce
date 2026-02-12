@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -18,4 +17,3 @@ If you are developing a production application, we recommend using TypeScript wi
 =======
 # Bywind-Ecommerce
 This  project about ecommerce trading platform which country mostly work on ecommerce its graphic data and visukaization. 
->>>>>>> 1c80d394056c5436d68979185030df30328e495a
